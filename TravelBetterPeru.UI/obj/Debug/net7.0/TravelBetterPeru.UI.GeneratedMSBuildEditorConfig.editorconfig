@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TravelBetterPeru.UI
 build_property.RootNamespace = TravelBetterPeru.UI
-build_property.ProjectDir = C:\Users\USER\RiderProjects\TravelBetterPeruApp\TravelBetterPeru.UI\
+build_property.ProjectDir = c:\Users\USER\RiderProjects\TravelBetterPeruApp\TravelBetterPeru.UI\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USER\RiderProjects\TravelBetterPeruApp\TravelBetterPeru.UI
+build_property.MSBuildProjectDirectory = c:\Users\USER\RiderProjects\TravelBetterPeruApp\TravelBetterPeru.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/App.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Counter.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/FetchData.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Index.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/SurveyPrompt.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/_Imports.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/MainLayout.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ikyo9bdch5
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/NavMenu.razor]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hscgow1nty
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Error.cshtml]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/_Host.cshtml]
+[c:/Users/USER/RiderProjects/TravelBetterPeruApp/TravelBetterPeru.UI/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
